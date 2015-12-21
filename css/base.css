@@ -104,6 +104,7 @@ main {
   padding: 5px 0;
   background-color: #fff;
   text-align: center;
+  font-size: 20px;
 }
 .info-bar a.icon {
   display: inline-block;
